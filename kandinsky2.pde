@@ -16,7 +16,8 @@ String t = "- Nancy Spector (Guggenheim)";
 
 void setup() {
   //fullScreen();
-  size(1255, 1280);
+  //size(1255, 1280);
+  size(800, 500);
   //img = loadImage("kandinsky several circles.jpg");
   
   bounce = false;
