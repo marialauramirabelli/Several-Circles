@@ -15,8 +15,8 @@ String s = "“The circle,” claimed Kandinsky, “is the synthesis of the grea
 String t = "- Nancy Spector (Guggenheim)";
 
 void setup() {
-  fullScreen();
-  //size(1255, 1280);
+  //fullScreen();
+  size(1255, 1280);
   //img = loadImage("kandinsky several circles.jpg");
   
   bounce = false;
