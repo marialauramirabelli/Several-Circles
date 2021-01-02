@@ -4,5 +4,6 @@ Before opening the sketch, set your browser zoom level to around 33% or less (th
 <br>
 [Sketch](sketch/index.html)<br>
 <br>
-[Processing code](sketch/kandinsky2.pde)
+[Processing code](sketch/kandinsky2.pde)<br>
+[*Several Circles* by Vasily Kandinsky](https://www.guggenheim.org/artwork/1992)
 
