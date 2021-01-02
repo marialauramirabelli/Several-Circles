@@ -1,3 +1,3 @@
 # Several Circles
 
-[Sketch](kandinsky2.pde)
+[Sketch](index.html)
